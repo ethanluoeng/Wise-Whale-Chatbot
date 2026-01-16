@@ -15,7 +15,7 @@ Why settle for a robotic assistant when you can consult a Whale instead? The Wis
 
 ## Try It Out: 
 
-Prerequisites
+Prerequisites:
 - Python
 - Node.js & npm
 - A Google AI Studio API Key
