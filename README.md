@@ -1,4 +1,4 @@
-# 🐋 The Deep Oracle
+# 🐋 The Wise Old Whale
 An AI-powered companion that speaks with the wisdom of the currents and the patience of the tides. This chatbot utilizes the Gemini API to deliver profound, whale-like insights through a modern, fluid interface.
 
 ## 🌊 The Concept
@@ -8,14 +8,14 @@ Why settle for a robotic assistant when you can consult a Whale instead? The Wis
 - Serene tone: Calm, unhurried, and deeply empathetic.
 
 ## 💻 Tech Stack
-Frontend:	React  (Responsive, single-page UI.)
-Styling:	TailwindCSS	
-Backend:	Flask  (Lightweight Python API to handle requests.)
-AI Brain:	Gemini 2.5 flash  (Generative AI for the Wise Whale persona.)  
+- Frontend:	React  (Responsive, single-page UI.)
+- Styling:	TailwindCSS	
+- Backend:	Flask  (Lightweight Python API to handle requests.)
+- AI Brain:	Gemini 2.5 flash  (Generative AI for the Wise Whale persona.)  
 
 ## Try It Out: 
 
-### Prerequisites
+Prerequisites
 - Python
 - Node.js & npm
 - A Google AI Studio API Key
@@ -40,6 +40,5 @@ npm install
 npm run dev
 </pre>
 
-Start conversing with the whale!
-
 ## “The ocean does not hurry, yet all things are accomplished.” — The Wise Old Whale
+🌊🌊🌊🌊🌊
