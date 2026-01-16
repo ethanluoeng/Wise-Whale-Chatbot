@@ -28,7 +28,7 @@ git clone https://github.com/yourusername/Wise-Whale-Chatbot.git
 Launch the Backend:
 <pre>
 cd flask-server
-pip install -r requirements.txt
+# Install dependencies
 # Create a .env file and add: GEMINI_API_KEY=your_key_here
 python flask-server.py
 </pre>
