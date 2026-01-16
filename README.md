@@ -1,4 +1,4 @@
-## 🐋 The Deep Oracle
+# 🐋 The Deep Oracle
 An AI-powered companion that speaks with the wisdom of the currents and the patience of the tides. This chatbot utilizes the Gemini API to deliver profound, whale-like insights through a modern, fluid interface.
 
 ## 🌊 The Concept
@@ -15,7 +15,7 @@ AI Brain:	Gemini 2.5 flash  (Generative AI for the Wise Whale persona.)
 
 ## Try It Out: 
 
-# Prerequisites
+### Prerequisites
 - Python
 - Node.js & npm
 - A Google AI Studio API Key
